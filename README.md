@@ -54,8 +54,8 @@
     <img src="https://img.shields.io/badge/AI Study Advisor-moshaverehopai.ir-green?style=for-the-badge&logo=chatbot&logoColor=white"/>
   </a>
   <br><br>
-  <a href="https://www.metalcodeir" target="_blank">
-    <img src="https://img.shields.io/badge/MetalCode Academy-metalcodeir-red?style=for-the-badge&logo=code&logoColor=white"/>
+  <a href="https://www.metalcode.ir" target="_blank">
+    <img src="https://img.shields.io/badge/MetalCode Academy-metalcode.ir-red?style=for-the-badge&logo=code&logoColor=white"/>
   </a>
 </p>
 
