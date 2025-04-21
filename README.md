@@ -12,7 +12,6 @@
 
 ---
 
-### 🧰 Tech Stack & Tools
 
 ### 🧰 Tech Stack & Tools
 
