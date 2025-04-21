@@ -15,6 +15,8 @@
 
 ### 🧰 Tech Stack & Tools
 
+### 🧰 Tech Stack & Tools
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS"/>
@@ -25,9 +27,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Metasploit_logo_and_wordmark.svg" width="70" title="Metasploit"/>
+  <img src="https://raw.githubusercontent.com/TechXtreme/metasploit-png/main/metasploit-logo.png" width="40" title="Metasploit"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="50" title="Kali Linux"/>
 </p>
+
 
 ---
 
