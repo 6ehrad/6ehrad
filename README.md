@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-🎯 I'm **Behrad Omidi**, a passionate **Backend Developer & Cybersecurity Learner** from Iran 🇮🇷  
+🎯 I'm **Behrad Omidi**, a passionate **frontend Developer & Cybersecurity Learner** from Iran 🇮🇷  
 🛠 I love clean code, offensive security, and powerful tools like Kali and Metasploit.  
 🚀 Constantly evolving, one exploit or commit at a time.
 
