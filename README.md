@@ -1,17 +1,16 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF0000&center=true&vCenter=true&width=800&height=100&lines=Hi+I'm+Behrad+Omidi+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Cybersecurity+%26+Code+Enthusiast+%F0%9F%94%91" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF0000&center=true&vCenter=true&width=800&height=100&lines=Hi+I'm+Behrad+Omidi+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Cybersecurity+%26+Code+Enthusiast+%F0%9F%94%91" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-🎯 I'm **Behrad Omidi**, a passionate **frontend Developer & Cybersecurity Learner** from Iran 🇮🇷  
-🛠 I love clean code, offensive security, and powerful tools like Kali and Metasploit.  
-🚀 Constantly evolving, one exploit or commit at a time.
+I'm **Behrad Omidi**, a passionate **Frontend Developer** and **Cybersecurity Enthusiast** from Iran 🇮🇷  
+I love writing **clean code**, diving into **offensive security**, and working with tools like **Kali Linux** & **Metasploit**.  
+Always evolving — one **exploit** or **commit** at a time.
 
 ---
-
 
 ### 🧰 Tech Stack & Tools
 
@@ -28,16 +27,15 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="50" title="Kali Linux"/>
 </p>
 
-
 ---
 
-### 🧠 Things I'm Learning
+### 🧠 Currently Learning
 
-- 🔐 Advanced **ethical hacking** techniques with Metasploit  
-- 🐧 Mastering **Linux environments** with Kali  
-- 🧰 Writing clean backend logic in **Python** and **C**  
-- 🕸 Exploring **web vulnerabilities** (XSS, SQLi, CSRF)  
-- ☁️ Playing around with **cloud security** and **network forensics**
+- 🔐 Advanced **Ethical Hacking** techniques using **Metasploit**
+- 🐧 Deep diving into **Linux environments** with Kali
+- 🧰 Writing clean, secure backend logic in **Python** and **C**
+- 🌐 Exploring web vulnerabilities: **XSS**, **SQLi**, **CSRF**, and more
+- ☁️ Experimenting with **Cloud Security** and **Network Forensics**
 
 ---
 
@@ -61,7 +59,7 @@
 
 ### 🖋️ Quote of the Day
 
-> *"Security is not a product, but a process."* — Bruce Schneier
+> *"Security is not a product, but a process."* — **Bruce Schneier**
 
 ---
 
